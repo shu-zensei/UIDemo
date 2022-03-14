@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UI Demo</string>
+    <string name="textview1">表示内容</string>
+    <string name="button1">ボタン1</string>
+    <string name="button2">ボタン2</string>
+    <string name="switch1">スイッチ</string>
+    <string name="button3">確定</string>
+    <string name="num_edit">数値入力</string>
+    <string name="wolf">wolf</string>
+    <string name="checkbox1">国語</string>
+    <string name="checkbox2">数学</string>
+    <string name="lion">lion</string>
+    <string name="checkbox3">英語</string>
+    <string name="todo">TODO</string>
+    <string name="rateBarDes">rateBarDes</string>
+</resources>
